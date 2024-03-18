@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Usage
 1. Run the main script:
 
-python bot.py
+python customer.py
 
 2. Add the bot to your telegram and give it an "admin" previlage.
 
